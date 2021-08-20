@@ -1,7 +1,7 @@
 module.exports = {
   title: 'ZondyEchart 文档',
   description: '基于echars的图表组件库',
-  base: '/zondyechart/',
+  base: '/zondyechartdoc/',
   port: 8084,
   plugins: ['demo-container'],
   themeConfig: {
