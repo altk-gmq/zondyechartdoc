@@ -21,3 +21,6 @@ footer: MIT Licensed | Copyright © 2021-present GMQ
 ```sh
 npm install ZondyEchart --save
 ```
+<h1 align=center>
+    <img src="https://hlgcdn.oss-cn-hangzhou.aliyuncs.com/hlg-ui/1607504321645897/yuguang-vue-bottom.gif"/>
+</h1>
